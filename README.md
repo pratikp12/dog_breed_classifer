@@ -10,6 +10,7 @@
 <a name="description"></a>
 ## Description
 Dog breed classifer is Udacity Data Science Nanodegree Project which invloves Opencv,tensorflow. Which bases on Convolutional Neural Networks.It's Great learning experience with Udacity.This app identify dog breed of input images and if input is human face model suggest dog breed.
+Kindly refer my python notebook for all the steps of This project
 
 <a name="requirements"></a>
 ## Requirements
