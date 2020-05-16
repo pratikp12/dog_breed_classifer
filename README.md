@@ -49,3 +49,6 @@ some interesting output
 ## Acknowledgement
 
 Udacity
+
+## blog link 
+https://medium.com/@pratikmpatil12/dog-breed-classifier-udacity-capstone-project-24c26a0a4f89?sk=94de09af4b8e43f78fb02881ce4fc1ec
